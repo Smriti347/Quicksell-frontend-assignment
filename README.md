@@ -1,4 +1,4 @@
-# Kanban Board Application
+# Quicksell-frontend-assignment (Kanban Board Application)
 
 This repository hosts a Kanban Board Application built with React JS, designed to work seamlessly with the API available at [https://api.quicksell.co/v1/internal/frontend-assignment](https://api.quicksell.co/v1/internal/frontend-assignment). It enables users to efficiently manage and organize tickets in a Kanban board layout, offering multiple grouping and sorting options.
 
@@ -34,12 +34,3 @@ Tickets are assigned one of the following priority levels:
 - The application is responsive and user-friendly, featuring a design inspired by provided visuals.
 - User preferences and view settings are preserved even after refreshing the page, ensuring a seamless experience.
 
-## Getting Started
-
-Follow these steps to run the application locally:
-
-1. Clone this repository:
-
-   ```bash
-   git clone <repository-url>
-# Quicksell-frontend-assignment
