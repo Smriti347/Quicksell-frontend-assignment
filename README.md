@@ -39,13 +39,13 @@ Each ticket is assigned one of the following priority levels:
 ## Previews
 
 ### Group by Status, Order by Priority
-![Group by Status, Order by Priority](./images/group-status-priority.jpg)
+![Group by Status, Order by Priority](./images/group-status-priority.jpeg)
 
 ### Group by Priority, Order by Priority
-![Group by Priority, Order by Priority](./images/group-priority-priority.jpg)
+![Group by Priority, Order by Priority](./images/group-priority-priority.jpeg)
 
 ### Group by Priority, Order by Title
-![Group by Priority, Order by Title](./images/group-user-title.jpg)
+![Group by Priority, Order by Title](./images/group-user-title.jpeg)
 
 ---
 
